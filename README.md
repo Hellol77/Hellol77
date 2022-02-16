@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:#56879f,100:#56879f&height=300&section=header&text=Hellol77&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#56879f&height=300&section=header&text=Hellol77&fontSize=90)
 ### Hellol77 :computer:
 
 <!--
