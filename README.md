@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=56879f&height=300&section=header&text=Hellol77&fontSize=90)
 ### Hellol77 :computer:
 ## stack
-https://img.shields.io/static/v1?label=<LABEL>&message=<python>&color=<COLOR>
+https://img.shields.io/badge/python-python-brightgreen
 <!--
 **Hellol77/Hellol77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
