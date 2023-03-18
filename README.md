@@ -1,9 +1,12 @@
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=56879f&height=300&section=header&text=Hellol77&fontSize=90)
+
+
+  
 ### :computer: DongHyeonWon
 <a href="https://hellol77.tistory.com/"><img src="https://img.shields.io/badge/blog-da3552?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dhe7700@naver.com-ea4336?style=flat-square&logo=Gmail&logoColor=white"/>
-
-![Hellol77's github stats](https://github-readme-stats.vercel.app/api?username=Hellol77&show_icons=true&theme=graywhite)[![Hellol77's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellol77&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hellol77)
 
 
 <!--  <img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Storyblok&logoColor=white"/> -->
@@ -28,3 +31,10 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 
+
+  
+![Hellol77's github stats](https://github-readme-stats.vercel.app/api?username=Hellol77&show_icons=true&theme=graywhite)
+  
+  [![Hellol77's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellol77&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hellol77)
+  
+</div>
