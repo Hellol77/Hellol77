@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/CSS-1376e7?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-6aeefc?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
