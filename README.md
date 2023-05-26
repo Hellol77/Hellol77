@@ -25,10 +25,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-### Tools
+<!-- ### Tools
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-
+ -->
 
   
 <!-- ![Hellol77's github stats](https://github-readme-stats.vercel.app/api?username=Hellol77&show_icons=true&theme=graywhite)
