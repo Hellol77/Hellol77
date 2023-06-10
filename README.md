@@ -11,8 +11,7 @@
 
 
 
-## :+1: Skills
-### Tech
+## :+1: Tech
 #### Strong
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Html-f85a2b?style=flat-square&logo=HTML5&logoColor=white"/></a>
