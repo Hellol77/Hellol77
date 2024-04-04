@@ -53,10 +53,4 @@
   
 <!--   [![Hellol77's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellol77&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hellol77) -->
 
---- 
-#### Tataro 사용자수 1000명 달성
-#### https://tataro.pages.dev/
-<img width="793" alt="image" src="https://github.com/Hellol77/Hellol77/assets/76903801/a7cf5e18-faff-42fb-80b5-0152cde110c2">
-
-</div>
 
