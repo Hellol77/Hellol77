@@ -45,6 +45,12 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
+</div>
+
+
+## 운영중인 서비스
+
+<a href="https://tataro.pages.dev/">타로보는 타타로</a>
 <!-- 
 #### ETC
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> -->
