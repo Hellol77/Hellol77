@@ -53,6 +53,8 @@
 
 <a href="https://tataro.net" target="_blank">타로보는 타타로</a>
 
+<a href="https://tataro.net" target="_blank">rotorage - 한로로 팬페이지</a>
+
 <a href="https://waggle-pet.com/" target="_blank">Waggle(미완성) - 반려견에 대한 모든 것을 공유하고 소통하는 공간</a>
 <!-- 
 #### ETC
