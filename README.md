@@ -58,6 +58,8 @@
 <a href="https://www.rotorage.site/" target="_blank">rotorage - 한로로 팬페이지</a>
 
 <a href="https://waggle-pet.com/" target="_blank">Waggle - 반려견에 대한 모든 것을 공유하고 소통하는 공간</a>
+
+<a href="https://worry-is-bubble.com/" target="_blank">고민은 버블 🫧 - 당신의 고민을 입력하고 터뜨려 보세요!</a>
 <!-- 
 #### ETC
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> -->
