@@ -56,7 +56,7 @@
 
 <a href="https://www.rotorage.site/" target="_blank">rotorage - 한로로 팬페이지</a>
 
-<a href="https://waggle-pet.com/" target="_blank">Waggle - 반려견에 대한 모든 것을 공유하고 소통하는 공간</a>
+Waggle - 반려견에 대한 모든 것을 공유하고 소통하는 공간 (서비스 종료)
 
 <a href="https://worry-is-bubble.com/" target="_blank">모든건 버블 🫧 - 어떤 말이든 입력하고 터뜨려 보세요!</a>
 <!-- 
