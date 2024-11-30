@@ -58,7 +58,12 @@
 
 Waggle - 반려견에 대한 모든 것을 공유하고 소통하는 공간 (서비스 종료)
 
+모든건 버블 🫧 - 어떤 말이든 입력하고 터뜨려 보세요! (공사 중!)
+
+<!--
 <a href="https://worry-is-bubble.com/" target="_blank">모든건 버블 🫧 - 어떤 말이든 입력하고 터뜨려 보세요!</a>
+-->
+
 <!-- 
 #### ETC
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> -->
