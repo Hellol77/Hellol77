@@ -23,7 +23,7 @@ Waggle - 반려견에 대한 모든 것을 공유하고 소통하는 공간 (서
 
 ## 오픈 소스 기여
 
-tanstack/query - <a href="https://github.com/TanStack/query/pull/9755" target="_blank">공식 문서에 Background Retry Pausing 관련 문서 기여 (#9755)</a>
+tanstack/query - <a href="https://github.com/TanStack/query/pull/9755" target="_blank">공식 문서에 Background Retry Pausing 관련 기여 (#9755)</a>
 
 
 <!--
